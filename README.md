@@ -1,5 +1,4 @@
 # 🛒 Ecommerce Backend
-
 This is a Java Spring Boot backend application for an e-commerce platform. It provides secure APIs for authentication, product browsing, cart management, and order processing.
 
 ---
